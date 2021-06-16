@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyConvertor</string>
+    <string name="logo">Currency Converter</string>
+    <string name="usd">USD</string>
+    <string name ="cad">CAD</string>
+    <string name="input_cad">CAD Currency</string>
+    <string name="input_usd">USD Currency</string>
+    <string name="btn_name">CONVERT</string>
+</resources>
